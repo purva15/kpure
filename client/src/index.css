@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Belanosima:wght@400;600;700&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Marcellus&family=Outfit:wght@100..900&display=swap");
+
+@import "tailwindcss";
+
+* {
+  font-family: "Marcellus", serif;
+}
+
+@theme {
+  --color-primary: #1a202c; /* Dark Gray */
+  --color-primary-dull: #2d3748; /* Soft Charcoal */
+  --color-accent: #94c977; /* Soft Organic Green */
+  --color-accent-dark: #6ba750; /* Herbal Green */
+}
