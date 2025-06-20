@@ -1,2 +1,0 @@
-# kpure
-Kpure
